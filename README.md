@@ -8,7 +8,7 @@
 - Scripts/conky_widgets.lua
 
 # Resolution
-1600x900
+- 1600x900 (adapt it for other resolution)
 
 # Exemple
 ArchLinux + OpenBox & Tint2
