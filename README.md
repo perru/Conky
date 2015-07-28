@@ -4,7 +4,7 @@ Free to use !
 
 # Files
 - .conkyrc
-- conky_widgets.lua
+- Scripts/conky_widgets.lua
 
 # Resolution
 1600x900
