@@ -1,6 +1,7 @@
 # My personnal Conky configuration
 
-Free to use !
+- Yahoo Weather API.
+- LUA Circles
 
 # Files
 - .conkyrc
