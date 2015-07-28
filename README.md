@@ -1,7 +1,7 @@
 # My personnal Conky configuration
 
 - Yahoo Weather API.
-- LUA Circles (need conky-lua)
+- LUA Circles (need **conky-lua**)
 
 # Files
 - .conkyrc
