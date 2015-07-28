@@ -10,6 +10,7 @@ Free to use !
 1600x900
 
 # Exemple
+ArchLinux + OpenBox & Tint2
 
 ![desk]
 (http://i.imgur.com/NPYc5mA.jpg)
