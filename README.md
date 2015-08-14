@@ -10,11 +10,11 @@
 # Resolution
 - 1600x900 (adapt it for other resolution)
 
-# Exemple
-ArchLinux + OpenBox & Tint2
-
 # License
 Free to use and share accross borders :)
+
+# Exemple
+ArchLinux + OpenBox & Tint2
 
 ![desk]
 (http://i.imgur.com/NPYc5mA.jpg)
