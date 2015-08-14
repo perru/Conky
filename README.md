@@ -13,5 +13,8 @@
 # Exemple
 ArchLinux + OpenBox & Tint2
 
+# License
+Free to use and share accross borders :)
+
 ![desk]
 (http://i.imgur.com/NPYc5mA.jpg)
